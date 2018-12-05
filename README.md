@@ -7,9 +7,9 @@ In order to run the files create the follow directory heierarchy
 MAIN_PROJECT_FOLDER <br>
   | <br>
   |-----> Data <br>
-  |         | proc_SemEvalClean.txt <br>
-  |         |----> GloVe_Embeddings <br>
-  |         |         \*|glove.twitter.27B.25d.txt <br>
+  |         \t| proc_SemEvalClean.txt <br>
+  |         \t\t|----> GloVe_Embeddings <br>
+  |         \t\t\t|         \*|glove.twitter.27B.25d.txt <br>
   | <br>
   |-----> tmp <br>
   | <br>
