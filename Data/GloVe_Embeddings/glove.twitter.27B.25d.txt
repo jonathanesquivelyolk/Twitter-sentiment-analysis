@@ -1,0 +1,1 @@
+Go to: https://nlp.stanford.edu/projects/glove/ and replace this file with the corresponding embedding file.
